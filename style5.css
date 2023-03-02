@@ -1,0 +1,32 @@
+
+.div1{
+
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+    padding: 15px;
+}
+
+.div2{
+    background-color:rgb(60, 46, 154);
+    color: rgb(255,255 ,255);
+    border-right: dotted;
+    border-left: dashed;
+    border-width: 10px;
+    border-color: red;
+    padding: 15px;
+    
+}
+
+.div3{
+
+    border-top: dashed;
+    border-bottom: solid;
+    border-width: 10px;
+    border-color: red;
+    padding: 15px;
+    background-color: silver;
+    color: rgb(255,255 ,255);
+
+
+}
